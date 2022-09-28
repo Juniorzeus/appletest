@@ -1,5 +1,2 @@
 apple
 appl
-app
-ap
-a
